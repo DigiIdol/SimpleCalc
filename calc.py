@@ -1,4 +1,4 @@
-#Простой калькулятор
+print ("Простой калькулятор")
 from colorama import Fore, Back, Style
 from colorama import init
 init() # use Colorama to make Termcolor work on Windows too
